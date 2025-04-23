@@ -38,6 +38,6 @@
     "vite": "^6.3.1"
   },
   "overrides": {
-  "@rollup/rollup-linux-x64-gnu": "0.0.0"
-}
+    "@rollup/rollup-linux-x64-gnu": "0.0.0"
+  }
 }
